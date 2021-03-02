@@ -1,33 +1,27 @@
-.App {
-  text-align: center;
+.container{
+  background-color: #f3f5f7;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card-ui{
+  display: grid;
+  grid-template-columns: 410px 410px 300px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.total-players{
+  width: 400px;
+  height: 160px;
+  margin: 25px;
+  padding: 10px;
+  background-color: #fff8f8;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.add-team{
+  width: 700px;
+  height: 160px;
+  margin: 25px;
+  padding: 10px;
+  background-color: #fff8f8;
+}
+.team-show{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

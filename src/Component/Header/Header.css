@@ -1,0 +1,28 @@
+.navbar-item{
+    display: flex;
+}
+.navbar-item{
+    background-color: red;
+    height: 80px;
+}
+.navbar-item img{
+    margin-left: 485px;
+    height: 80px;
+}
+.nav-link{
+    margin-left: 20px;
+}
+.nav-link a{
+    line-height: 63px;
+    padding: 20px;
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+}
+.nav-link a:hover{
+    background-color: #B8161F;
+    color: #fff;
+    text-decoration: none;
+}

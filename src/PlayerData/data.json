@@ -1,0 +1,169 @@
+[{
+  "id": 1,
+  "name": "Harry Kane",
+  "email": "harrykane22@gmail.com",
+  "image": "https://www.nicepng.com/png/detail/155-1556759_harry-kane-soccer-player-stock-images-harry-kane.png",
+  "gender": "Male",
+  "position": "Attacking Midfielder",
+  "salary": "$733.60"
+}, {
+  "id": 2,
+  "name": "Luis Suarez",
+  "email": "luissuarez233@gmail.com",
+  "image": "http://olympiclub.com/wp-content/uploads/2018/05/suarez.jpg",
+  "gender": "Male",
+  "position": "Midfielder",
+  "salary": "$344.50"
+}, {
+  "id": 3,
+  "name": "Eden Hazard",
+  "email": "hazarde34@gmail.com",
+  "image": "https://www.pngkit.com/png/full/311-3116279_eden-hazard-eden-hazard-2018-2019.png",
+  "gender": "Male",
+  "position": "Attacker",
+  "salary": "$833.62"
+}, {
+  "id": 4,
+  "name": "Mohammed Salah",
+  "email": "msalah123@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p118748.png",
+  "gender": "Male",
+  "position": "Attacking Midfielder",
+  "salary": "$732.39"
+}, {
+  "id": 5,
+  "name": "Allison Becker",
+  "email": "alison@1688@gmail.com",
+  "image": "https://m.footballdatabase.eu/images/photos/players/2019-2020/a_194/194820.jpg",
+  "gender": "Male",
+  "position": "Goal Keeper",
+  "salary": "$644.37"
+}, {
+  "id": 6,
+  "name": "Thiago Silva",
+  "email": "silvat234@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p51090.png",
+  "gender": "Male",
+  "position": "Defender",
+  "salary": "$344.99"
+}, {
+  "id": 7,
+  "name": "Ricardo Kaka",
+  "email": "ricardokaka234@gmail.com",
+  "image": "https://i.pinimg.com/originals/ae/a9/57/aea957850d90cf54aa665570e45f1eb2.jpg",
+  "gender": "Male",
+  "position": "Attacking Midfielder",
+  "salary": "$349.46"
+}, {
+  "id": 8,
+  "name": "Dani Alves",
+  "email": "dani43@gmail.com",
+  "image": "https://lthumb.lisimg.com/625/7016625.jpg?width=280&sharpen=true",
+  "gender": "Male",
+  "position": "Attacking Right Defender",
+  "salary": "$543.43"
+}, {
+  "id": 9,
+  "name": "David Luis",
+  "email": "davidluis435@gmail.com",
+  "image": "https://i.pinimg.com/originals/eb/d3/80/ebd38081201264ae5ff7f30053ed4751.png",
+  "gender": "Male",
+  "position": "Defender",
+  "salary": "$495.36"
+}, {
+  "id": 10,
+  "name": "Philippe Coutinho",
+  "email": "coutinho23@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p84583.png",
+  "gender": "Male",
+  "position": "Midfielder",
+  "salary": "$816.08"
+}, {
+  "id": 11,
+  "name": "Oscar",
+  "email": "oscar245@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p61262.png",
+  "gender": "Male",
+  "position": "Midfielder",
+  "salary": "$618.97"
+}, {
+  "id": 12,
+  "name": "Frank Lampard",
+  "email": "flampard234@gmail.com",
+  "image": "http://1.bp.blogspot.com/-WRh8jGH2YRY/TydeSxqzsbI/AAAAAAAAJjg/HXSw6wC1tnw/s1600/Frank+Lampard2.jpg",
+  "gender": "Male",
+  "position": "Attacking Midfielder",
+  "salary": "$868.27"
+}, {
+  "id": 13,
+  "name": "Cristiano Ronaldo",
+  "email": "ronaldo343@gmail.com",
+  "image": "https://www.realmadrid.com/img/vertical_380px/cristiano_550x650.jpg",
+  "gender": "Male",
+  "position": "Forward",
+  "salary": "$899.75"
+}, {
+  "id": 14,
+  "name": "Mesut Ozil",
+  "email": "ozil343@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p37605.png",
+  "gender": "Male",
+  "position": "Midfielder",
+  "salary": "$869.30"
+}, {
+  "id": 15,
+  "name": "Karim Benzema",
+  "email": "kbenzema54@gmail.com",
+  "image": "https://www.realmadrid.com/img/vertical_380px/benzema_380x501_20201203095836.jpg",
+  "gender": "Male",
+  "position": "Midfielder",
+  "salary": "$768.19"
+}, {
+  "id": 16,
+  "name": "Romelu Lukaku",
+  "email": "lukaku43@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p66749.png",
+  "gender": "Male",
+  "position": "Attacker",
+  "salary": "$222.05"
+}, {
+  "id": 17,
+  "name": "David De Gea",
+  "email": "davidgea57@gmail.com",
+  "image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p51940.png",
+  "gender": "Male",
+  "position": "Goal keeper",
+  "salary": "$477.13"
+}, {
+  "id": 18,
+  "name": "Ronaldinho Gaucho",
+  "email": "ronaldinho76@gmail.com",
+  "image": "https://lh3.googleusercontent.com/-0B3fSuH0ib0/VytA59atDRI/AAAAAAAAAPA/EZ_LOoCbKZ4/s1600/Ronaldinho-Gaucho-dp-profile-pics-1338.jpg",
+  "gender": "Male",
+  "position": "Attacking Midfielder",
+  "salary": "$716.64"
+}, {
+  "id": 19,
+  "name": "Neymar JR",
+  "email": "neymarjr43@gmail.com",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/142105.jpg",
+  "gender": "Male",
+  "position": "Forward",
+  "salary": "$455.35"
+}, {
+  "id": 20,
+  "name": "Sergio Ramos",
+  "email": "ramos57@gmail.com",
+  "image": "https://assets.laliga.com/squad/2019/t186/p17861/512x512/p17861_t186_2019_1_003_000.png",
+  "gender": "Male",
+  "position": "Forward",
+  "salary": "$558.23"
+}, {
+  "id": 19,
+  "name": "Neymar JR",
+  "email": "neymarjr43@gmail.com",
+  "image": "https://s.hs-data.com/bilder/spieler/gross/142105.jpg",
+  "gender": "Male",
+  "position": "Forward",
+  "salary": "$455.35"
+}]
